@@ -1,0 +1,13 @@
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\bin\Debug\SortAndFilterDb.exe.config
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\bin\Debug\SortAndFilterDb.exe
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\bin\Debug\SortAndFilterDb.pdb
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.csproj.AssemblyReference.cache
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.Form1.resources
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.Properties.Resources.resources
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.csproj.GenerateResource.cache
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.csproj.CoreCompileInputs.cache
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.exe
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.pdb
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.SearchForm.resources
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.AdvancedSearchForm.resources
+C:\University\Databases\db-projects\SortAndFilterDb\SortAndFilterDb\obj\Debug\SortAndFilterDb.FilterForm.resources
